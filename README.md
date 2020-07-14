@@ -61,3 +61,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
   <img align="left" alt="Milan Panchal's LeetCode" width="50" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png"/>
 </a>
 
+
+
+![Milan Panchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanpanchal&show_icons=true)
+
