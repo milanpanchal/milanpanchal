@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Milan Panchal 👋
 
 <!--
 **milanpanchal/milanpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-I'm Milan Panchal, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
+I'm Software Developer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
 
 ## Expertise:
@@ -33,10 +33,31 @@ I'm Milan Panchal, who loves building mobile applications. Dynamic and passionat
 
 ## 📫 How to reach me:
 
-* Medium: https://medium.com/@milanpanchal24
-* LinkedIn: https://www.linkedin.com/in/milanpanchal/
-* Twitter: https://twitter.com/milan_panchal24
-* StackOverflow: https://stackoverflow.com/users/1748956/milanpanchal
-* Github: https://github.com/milanpanchal
-* LeetCode: https://leetcode.com/milanpanchal/
-* HackerRank: https://www.hackerrank.com/milanpanchal?hr_r=1 
+<a href="https://twitter.com/milan_panchal24">
+  <img align="left" alt="Milan Panchal's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>
+</a>
+
+<a href="https://www.linkedin.com/in/milanpanchal/">
+  <img align="left" alt="Milan Panchal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>
+</a>
+
+<a href="https://github.com/milanpanchal">
+  <img align="left" alt="Milan Panchal's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/>
+</a>
+
+<a href="https://medium.com/@milanpanchal24">
+  <img align="left" alt="Milan Panchal's Blog" src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/>
+</a>
+
+<a href="https://www.hackerrank.com/milanpanchal?hr_r=1">
+  <img align="left" alt="Milan Panchal's HackerRank" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/>
+</a>
+
+<a href="https://stackoverflow.com/users/1748956/milanpanchal">
+  <img align="left" alt="Milan Panchal's StackOverflow" src="https://img.icons8.com/color/50/000000/stackoverflow.png"/>
+</a>
+
+<a href="https://leetcode.com/milanpanchal/">
+  <img align="left" alt="Milan Panchal's LeetCode" width="50" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png"/>
+</a>
+
