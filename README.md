@@ -43,7 +43,10 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
 
-![Milan Panchal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=milanpanchal&show_icons=true)
+  <a href="https://github.com/milanpanchal" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=milanpanchal&title_color=333&text_color=777&show_icons=true" alt="Milan Panchal's GitHub Stats" >
+  </a>
+  
 <br><br>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/milanpanchal/milanpanchal?style=flat-square&color=blue&logo=github">
