@@ -30,6 +30,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 * Design Patterns [MVC | MVVM | VIPER ]
 * Version Control [GIT | SVN]
 * Functional Programming
+* Authentication [Auth 2, JWT] 
 
 ## :rocket: Programming Languages
 
