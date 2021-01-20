@@ -43,7 +43,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 |<a href="https://twitter.com/milan_panchal24"><img align="center" alt="Milan Panchal's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>|<a href="https://tooter.in/milanpanchal"><img align="center" alt="Milan Panchal's Tooter" width="30" src="https://tooter.in/apple-touch-icon.png"/></a>|<a href="https://www.linkedin.com/in/milanpanchal/"><img align="center" alt="Milan Panchal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/milanpanchal"><img align="center" alt="Milan Panchal's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|<a href="https://medium.com/@milanpanchal24"><img align="center" alt="Milan Panchal's Blog" src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>|<a href="https://www.hackerrank.com/milanpanchal?hr_r=1"><img align="center" alt="Milan Panchal's HackerRank" src="https://img.icons8.com/windows/50/000000/hackerrank.png"/></a>|<a href="https://stackoverflow.com/users/1748956/milanpanchal"><img align="center" alt="Milan Panchal's StackOverflow" src="https://img.icons8.com/color/50/000000/stackoverflow.png"/></a>|<a href="https://leetcode.com/milanpanchal/"><img align="center" alt="Milan Panchal's LeetCode" width="50" src="https://assets.leetcode.com/static_assets/public/images/LeetCode_logo.png"/></a>|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-****
+## Stats:
   <a href="https://github.com/milanpanchal" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=milanpanchal&show_icons=true&count_private=true&line_height=40&theme=tokyonight" alt="Milan Panchal's GitHub Stats" align="left">
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=milanpanchal&theme=tokyonight&hide_langs_below=4' />
@@ -57,19 +57,13 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/years/milanpanchal?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://github.com/milanpanchal?tab=repositories">
     <img src="https://badges.pufler.dev/repos/milanpanchal?style=flat-square&color=blue&logo=github">
   </a>
-  <a href="https://badges.pufler.dev">
+  <a href="https://gist.github.com/milanpanchal">
     <img src="https://badges.pufler.dev/gists/milanpanchal?style=flat-square&color=blue&logo=github">
   </a>
     <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/commits/monthly/milanpanchal?style=flat-square&color=blue&logo=github">
   </a>
-
-
-
-
-
-
-
+  
