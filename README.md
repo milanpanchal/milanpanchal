@@ -45,9 +45,12 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 
   <a href="https://github.com/milanpanchal" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=milanpanchal&title_color=333&text_color=777&show_icons=true" alt="Milan Panchal's GitHub Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=milanpanchal&show_icons=true&count_private=true&line_height=40&theme=tokyonight" alt="Milan Panchal's GitHub Stats" align="left">
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=milanpanchal&theme=tokyonight&hide_langs_below=4' />
   </a>
   
+[![trophy](https://github-profile-trophy.vercel.app/?username=milanpanchal&theme=onedark)](https://github.com/milanpanchal/github-profile-trophy) 
+
 <br><br>
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/visits/milanpanchal/milanpanchal?style=flat-square&color=blue&logo=github">
@@ -58,5 +61,16 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
   <a href="https://badges.pufler.dev">
     <img src="https://badges.pufler.dev/repos/milanpanchal?style=flat-square&color=blue&logo=github">
   </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/gists/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+    <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+
+
+
+
+
 
 
