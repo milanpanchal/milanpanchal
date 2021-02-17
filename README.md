@@ -1,4 +1,4 @@
-### Hi, I'm Milan Panchal 👋
+### Hi, I'm [Milan Panchal](https://milanpanchal.github.io) 👋
 
 <!--
 **milanpanchal/milanpanchal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
