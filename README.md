@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 I'm Software Developer, who loves building mobile applications. Dynamic and passionate individual with extensive experience in application development lifecycle from concept through delivery of next-generation applications and customisable solutions in an Agile Environment.
 
-
 ## Expertise:
+
+<a href="https://app.daily.dev/milanpanchal"><img src="https://github.com/milanpanchal/milanpanchal/blob/master/devcard.svg" width="220" align="right" alt="Milan Panchal's Dev Card"/></a>
 
 * iOS Application Development [Swift | Objective-C]
 * Project Management
@@ -31,6 +32,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 * Version Control [GIT | SVN]
 * Functional Programming
 * Authentication [Auth 2, JWT] 
+
 
 ## ✍️ Latest Articles:
 <!-- MEDIUM_ARTICLES:START -->
