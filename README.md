@@ -35,13 +35,8 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 
 ## ✍️ Latest Articles:
-<!-- MEDIUM_ARTICLES:START -->
-- [What is indirect enum in swift?](https://medium.com/milanpanchal24/what-is-indirect-enum-in-swift-f4da5a6a9199)
-- [Xcode Setup for Development — Post Installation](https://medium.com/milanpanchal24/xcode-setup-for-development-post-installation-c6edf8ca3964)
-- [Swift Collections — Extending Swift Data Structures](https://medium.com/milanpanchal24/swift-collections-extending-swift-data-structures-787d12e0b2d4)
-- [How to Sort by Multiple Properties in Swift?](https://medium.com/milanpanchal24/how-to-sort-by-multiple-properties-in-swift-5e08b1ef1f23)
-- [How to implement natural sorting on the alphanumeric array in swift?](https://medium.com/milanpanchal24/how-to-implement-natural-sorting-on-the-alphanumeric-array-in-swift-5b8f64173725)
-<!-- MEDIUM_ARTICLES:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [![Milan Panchal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=milanpanchal&theme=react-dark&hide_border=false)]((https://github.com/milanpanchal))
 
