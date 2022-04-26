@@ -36,6 +36,11 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 ## ✍️ Latest Articles:
 <!-- BLOG-POST-LIST:START -->
+- [A step-by-step guide to setting up git config global properties](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8?source=rss-564a299fef62------2)
+- [How to show taps on the iPhone using a Bluetooth mouse](https://medium.com/geekculture/how-to-show-taps-on-the-iphone-using-a-bluetooth-mouse-f220b63fe9e?source=rss-564a299fef62------2)
+- [What is indirect enum in swift?](https://medium.com/geekculture/what-is-indirect-enum-in-swift-f4da5a6a9199?source=rss-564a299fef62------2)
+- [Xcode Setup for Development — Post Installation](https://medium.com/geekculture/xcode-setup-for-development-post-installation-c6edf8ca3964?source=rss-564a299fef62------2)
+- [Swift Collections — Extending Swift Data Structures](https://medium.com/geekculture/swift-collections-extending-swift-data-structures-787d12e0b2d4?source=rss-564a299fef62------2)
 <!-- BLOG-POST-LIST:END -->
 
 [![Milan Panchal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=milanpanchal&theme=react-dark&hide_border=false)]((https://github.com/milanpanchal))
