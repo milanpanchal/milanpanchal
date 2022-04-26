@@ -1,3 +1,25 @@
+<!--
+[![trophy](https://github-profile-trophy.vercel.app/?username=milanpanchal&theme=onedark)](https://github.com/milanpanchal/github-profile-trophy) 
+-->
+
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/visits/milanpanchal/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/years/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://github.com/milanpanchal?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+  <a href="https://gist.github.com/milanpanchal">
+    <img src="https://badges.pufler.dev/gists/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+    <a href="https://badges.pufler.dev">
+    <img src="https://badges.pufler.dev/commits/monthly/milanpanchal?style=flat-square&color=blue&logo=github">
+  </a>
+  
+****
+
 ### Hi, I'm [Milan Panchal](https://milanpanchal.github.io) 👋
 
 <!--
@@ -56,39 +78,22 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 |<a href="https://twitter.com/milan_panchal24"><img align="center" alt="Milan Panchal's Twitter" src="https://img.icons8.com/bubbles/50/000000/twitter.png"/></a>|<a href="https://tooter.in/milanpanchal"><img align="center" alt="Milan Panchal's Tooter" width="30" src="https://tooter.in/apple-touch-icon.png"/></a>|<a href="https://www.linkedin.com/in/milanpanchal/"><img align="center" alt="Milan Panchal's LinkedIn" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/></a>|<a href="https://github.com/milanpanchal"><img align="center" alt="Milan Panchal's GitHub" src="https://img.icons8.com/bubbles/50/000000/github.png"/></a>|<a href="https://medium.com/@milanpanchal24"><img align="center" alt="Milan Panchal's Blog" src="https://img.icons8.com/bubbles/50/000000/medium-new.png"/></a>|<a href="https://www.hackerrank.com/milanpanchal?hr_r=1"><img align="center" alt="Milan Panchal's HackerRank" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png"/></a>|<a href="https://stackoverflow.com/users/1748956/milanpanchal"><img align="center" alt="Milan Panchal's StackOverflow" src="https://img.icons8.com/color/50/000000/stackoverflow.png"/></a>|<a href="https://leetcode.com/milanpanchal/"><img align="center" alt="Milan Panchal's LeetCode" width="50" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-green-tal-revivo.png"/></a>|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 
-## My GitHub Stats
-<a href="https://github.com/milanpanchal">
-    <img src="https://github-readme-stats.vercel.app/api?username=milanpanchal&show_icons=true&theme=gotham&count_private=true" alt="Milan Panchal's GitHub Stats" width="45%" align="right"/>
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=milanpanchal&theme=dark" width="48%" >
-</a>
   
 ## Top Languages  
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milanpanchal&layout=compact&theme=gotham)
 
-### My Stackoverflow Stats
+
+<details>
+  <summary>📊 <b>My GitHub Stats</b></summary>
+    <a href="https://github.com/milanpanchal">
+        <img src="https://github-readme-stats.vercel.app/api?username=milanpanchal&show_icons=true&theme=gotham&count_private=true" alt="Milan Panchal's GitHub Stats" width="45%" align="right"/>
+        <img  src="https://github-readme-streak-stats.herokuapp.com/?user=milanpanchal&theme=dark" width="48%" >
+    </a>
+</details>
+
+<details>
+  <summary><b>My Stackoverflow Stats</b></summary>
 <a href="https://stackoverflow.com/users/1748956/milanpanchal">
   <img src="https://stackoverflow.com/users/flair/1748956.png?theme=dark" width="208" height="58" alt="profile for MilanPanchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for MilanPanchal at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a>
-
-
-<!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=milanpanchal&theme=onedark)](https://github.com/milanpanchal/github-profile-trophy) 
--->
-
-****
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/visits/milanpanchal/milanpanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/years/milanpanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://github.com/milanpanchal?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/milanpanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  <a href="https://gist.github.com/milanpanchal">
-    <img src="https://badges.pufler.dev/gists/milanpanchal?style=flat-square&color=blue&logo=github">
-  </a>
-    <a href="https://badges.pufler.dev">
-    <img src="https://badges.pufler.dev/commits/monthly/milanpanchal?style=flat-square&color=blue&logo=github">
-  </a>
-  
+</details>
