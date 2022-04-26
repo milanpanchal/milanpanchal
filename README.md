@@ -68,13 +68,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 ## StackOverflow Activity [![Latest stack overflow activity workflow](https://github.com/milanpanchal/milanpanchal/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/stack-overflow-workflow.yml)
 
-<!-- STACKOVERFLOW:START -->
-- [Answer by MilanPanchal for ios 14: [general] &#39;NSKeyedUnarchiveFromData&#39; should not be used to for un-archiving and will be removed in a future release](https://stackoverflow.com/questions/64059250/ios-14-general-nskeyedunarchivefromdata-should-not-be-used-to-for-un-archiv/64059435#64059435)
-- [Answer by MilanPanchal for Changing UserDefaults with defaults write](https://stackoverflow.com/questions/63857954/changing-userdefaults-with-defaults-write/63858769#63858769)
-- [Answer by MilanPanchal for My Cocoapods framework methods are not available by import in another app](https://stackoverflow.com/questions/63850195/my-cocoapods-framework-methods-are-not-available-by-import-in-another-app/63850463#63850463)
-- [Answer by MilanPanchal for SwiftLint - allow one line guards](https://stackoverflow.com/questions/61816307/swiftlint-allow-one-line-guards/63849325#63849325)
-- [Answer by MilanPanchal for Swift 5 - Not able to receive Push Notification through FCM](https://stackoverflow.com/questions/63842311/swift-5-not-able-to-receive-push-notification-through-fcm/63844403#63844403)
-<!-- STACKOVERFLOW:END -->
+<!-- STACKOVERFLOW:START --><tr><td>Answer by MilanPanchal for ios 14: [general] &#39;NSKeyedUnarchiveFromData&#39; should not be used to for un-archiving and will be removed in a future release</td><td>https://stackoverflow.com/questions/64059250/ios-14-general-nskeyedunarchivefromdata-should-not-be-used-to-for-un-archiv/64059435#64059435</td></tr><tr><td>Answer by MilanPanchal for Changing UserDefaults with defaults write</td><td>https://stackoverflow.com/questions/63857954/changing-userdefaults-with-defaults-write/63858769#63858769</td></tr><tr><td>Answer by MilanPanchal for My Cocoapods framework methods are not available by import in another app</td><td>https://stackoverflow.com/questions/63850195/my-cocoapods-framework-methods-are-not-available-by-import-in-another-app/63850463#63850463</td></tr><tr><td>Answer by MilanPanchal for SwiftLint - allow one line guards</td><td>https://stackoverflow.com/questions/61816307/swiftlint-allow-one-line-guards/63849325#63849325</td></tr><tr><td>Answer by MilanPanchal for Swift 5 - Not able to receive Push Notification through FCM</td><td>https://stackoverflow.com/questions/63842311/swift-5-not-able-to-receive-push-notification-through-fcm/63844403#63844403</td></tr><!-- STACKOVERFLOW:END -->
 
 [![Milan Panchal's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=milanpanchal&theme=react-dark&hide_border=false)]((https://github.com/milanpanchal))
 
