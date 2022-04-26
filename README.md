@@ -56,7 +56,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 * Authentication [Auth 2, JWT] 
 
 
-## ✍️ Latest Articles:
+## ✍️ Latest Articles: [![Latest blog post workflow](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
 - [A step-by-step guide to setting up git config global properties](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8?source=rss-564a299fef62------2)
 - [How to show taps on the iPhone using a Bluetooth mouse](https://medium.com/geekculture/how-to-show-taps-on-the-iphone-using-a-bluetooth-mouse-f220b63fe9e?source=rss-564a299fef62------2)
@@ -65,7 +65,9 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 - [Swift Collections — Extending Swift Data Structures](https://medium.com/geekculture/swift-collections-extending-swift-data-structures-787d12e0b2d4?source=rss-564a299fef62------2)
 <!-- BLOG-POST-LIST:END -->
 
-## StackOverflow Activity
+
+## StackOverflow Activity: [![Latest stack overflow activity](https://github.com/milanpanchal/milanpanchal/actions/workflows/stack-overflow-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/stack-overflow-workflow.yml)
+
 <!-- STACKOVERFLOW:START -->
 - [Answer by MilanPanchal for ios 14: [general] &#39;NSKeyedUnarchiveFromData&#39; should not be used to for un-archiving and will be removed in a future release](https://stackoverflow.com/questions/64059250/ios-14-general-nskeyedunarchivefromdata-should-not-be-used-to-for-un-archiv/64059435#64059435)
 - [Answer by MilanPanchal for Changing UserDefaults with defaults write](https://stackoverflow.com/questions/63857954/changing-userdefaults-with-defaults-write/63858769#63858769)
