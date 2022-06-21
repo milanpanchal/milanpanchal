@@ -58,11 +58,11 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 ## ✍️ Latest Articles [![Latest blog post workflow](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [Apple unveils MacBook Air 2022 with M2 chip](https://medium.com/macoclock/apple-unveils-macbook-air-2022-with-m2-chip-98b9247f99b1?source=rss-564a299fef62------2)
 - [A step-by-step guide to setting up git config global properties](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8?source=rss-564a299fef62------2)
 - [How to show taps on the iPhone using a Bluetooth mouse](https://medium.com/geekculture/how-to-show-taps-on-the-iphone-using-a-bluetooth-mouse-f220b63fe9e?source=rss-564a299fef62------2)
 - [What is indirect enum in swift?](https://medium.com/geekculture/what-is-indirect-enum-in-swift-f4da5a6a9199?source=rss-564a299fef62------2)
 - [Xcode Setup for Development — Post Installation](https://medium.com/geekculture/xcode-setup-for-development-post-installation-c6edf8ca3964?source=rss-564a299fef62------2)
-- [Swift Collections — Extending Swift Data Structures](https://medium.com/geekculture/swift-collections-extending-swift-data-structures-787d12e0b2d4?source=rss-564a299fef62------2)
 <!-- BLOG-POST-LIST:END -->
 
 
