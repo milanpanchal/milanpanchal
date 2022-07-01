@@ -54,6 +54,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 * Version Control [GIT | SVN]
 * Functional Programming
 * Authentication [Auth 2, JWT] 
+* Basic Knowledge of React Native and Node.js
 
 
 ## ✍️ Latest Articles [![Latest blog post workflow](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml)
