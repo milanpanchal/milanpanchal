@@ -59,11 +59,11 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 ## ✍️ Latest Articles [![Latest blog post workflow](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
+- [How to compare strings without case sensitivity in Swift](https://milanpanchal24.medium.com/how-to-compare-strings-without-case-sensitivity-in-swift-5b496dcedadc?source=rss-564a299fef62------2)
 - [A Guide to Converting .app to .dmg on MacOS](https://milanpanchal24.medium.com/a-guide-to-converting-app-to-dmg-on-macos-c19f9d81f871?source=rss-564a299fef62------2)
 - [Apple unveils MacBook Air 2022 with M2 chip](https://medium.com/macoclock/apple-unveils-macbook-air-2022-with-m2-chip-98b9247f99b1?source=rss-564a299fef62------2)
 - [A step-by-step guide to setting up git config global properties](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8?source=rss-564a299fef62------2)
 - [How to show taps on the iPhone using a Bluetooth mouse](https://medium.com/geekculture/how-to-show-taps-on-the-iphone-using-a-bluetooth-mouse-f220b63fe9e?source=rss-564a299fef62------2)
-- [What is indirect enum in swift?](https://medium.com/geekculture/what-is-indirect-enum-in-swift-f4da5a6a9199?source=rss-564a299fef62------2)
 <!-- BLOG-POST-LIST:END -->
 
 
