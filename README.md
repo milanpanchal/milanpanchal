@@ -59,7 +59,7 @@ I'm Software Developer, who loves building mobile applications. Dynamic and pass
 
 ## ✍️ Latest Articles [![Latest blog post workflow](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml/badge.svg)](https://github.com/milanpanchal/milanpanchal/actions/workflows/blog-post-workflow.yml)
 <!-- BLOG-POST-LIST:START -->
-- [How to compare strings without case sensitivity in Swift](https://milanpanchal24.medium.com/how-to-compare-strings-without-case-sensitivity-in-swift-5b496dcedadc?source=rss-564a299fef62------2)
+- [How to compare strings without case sensitivity in Swift](https://medium.com/geekculture/how-to-compare-strings-without-case-sensitivity-in-swift-5b496dcedadc?source=rss-564a299fef62------2)
 - [A Guide to Converting .app to .dmg on MacOS](https://milanpanchal24.medium.com/a-guide-to-converting-app-to-dmg-on-macos-c19f9d81f871?source=rss-564a299fef62------2)
 - [Apple unveils MacBook Air 2022 with M2 chip](https://medium.com/macoclock/apple-unveils-macbook-air-2022-with-m2-chip-98b9247f99b1?source=rss-564a299fef62------2)
 - [A step-by-step guide to setting up git config global properties](https://medium.com/geekculture/a-step-by-step-guide-to-setting-up-git-config-global-properties-db6dbce30fa8?source=rss-564a299fef62------2)
